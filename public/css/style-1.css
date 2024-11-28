@@ -32,6 +32,10 @@ margin-top: 45px;
 	color: white;
 	
 }
+.box-1 button:hover{
+	background-color: #179447;
+}
+
 .box-1>*{
 	border-radius: 8px;
 	border: none;
